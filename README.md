@@ -2,7 +2,7 @@
 
 #### This project uses Selenium WebDriver to automate a task on the www.mercadolibre.com
 
-###Prerequisites
+### Prerequisites
 Before running this project, make sure you have the following installed:
 
 - **Java 17 or higher** (preferably the latest stable version)
@@ -10,7 +10,7 @@ Before running this project, make sure you have the following installed:
 - **Selenium WebDriver** (this will be included as a dependency in the project)
 - **A compatible WebDriver** (such as ChromeDriver)
 
-###Installation
+### Installation
 1. Clone the repository:
 > git clone https://github.com/alexis7gabriel/Test-Automation.git
 
