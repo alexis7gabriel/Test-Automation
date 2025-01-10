@@ -21,4 +21,4 @@ Before running this project, make sure you have the following installed:
 
 ### Running
 1. If necessary, add webdriver dependencies in pom.xml and update
-2. Execute the main.java
+2. Execute the Main.java
